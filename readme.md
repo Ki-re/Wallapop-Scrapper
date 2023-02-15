@@ -21,7 +21,7 @@
 
 ## About the Project
 
-The script searches all the ads for a given motorcycle model on a wallapop and saves the obtained data to a sql database. That data can later be processed to get metrics on the market prices to determine whether a published bike's price is worth or not.
+The script searches all the ads for a given motorcycle model on wallapop and saves the obtained data to a sql database. That data can later be processed to get metrics on the market prices to determine whether a published bike's price is worth or not.
 
 This script was designed on 2022 and is no longer being mantained, feel free to adapt the code to your needs
 
