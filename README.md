@@ -1,2 +1,0 @@
-# wallascrapper
-Wallapop WebScrapper
