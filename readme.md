@@ -17,6 +17,10 @@
 
 <br />
 
+## Disclaimer
+
+This script was designed in 2022 and is no longer being maintained. Feel free to adapt the code to your needs.
+
 <!-- About the Project -->
 
 ## About the Project
